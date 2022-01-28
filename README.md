@@ -1,0 +1,2 @@
+# nixcraft
+My first project.
